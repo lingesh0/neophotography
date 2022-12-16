@@ -1,0 +1,54 @@
+.section1{
+    position: relative;
+    
+}
+.section1 img{
+    justify-content: right;
+    position:absolute;
+    height: 58rem;
+    width: 70%;
+    padding: 20px;
+    left: 400px;
+    margin: -590px 0px 0px 0px;
+  
+}
+.section1 div{
+    margin: 25rem auto;
+    background-color: white;
+    text-align: left;
+    top: 30px;
+}
+.section1 h1{
+    font-size: xx-large;
+    color: red;
+    padding: 5px;
+    left: 70px;
+    
+}
+.section1 div a{
+   padding: 10px;
+    border: 1px solid black;
+    border-radius:20px;
+    text-align:"center";
+}
+.section2{
+    position: relative;
+    display:block;
+}
+.section2 img{
+    margin: 0px;
+    width: 70%;
+    height: 70%;
+}
+.section2 h1{
+    text-align: center;
+    background-color: grey;
+    color: white;
+    padding: 20px;
+}
+.section2 p{
+    text-align: center;
+    background-color: black;
+    padding: 20px;
+    color: white;
+}
